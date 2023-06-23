@@ -18,8 +18,12 @@ function extractValues(data) {
 */
 
 function arrayToLengthCounters(array) {
-  // Tu código aquí
-}
+  let tamaño = {};
+  array.forEach(function (element){
+    tamaño[element]=element.length;
+  });
+    return tamaño;
+  }
 
 /*  
   Ejercicio 3: 
