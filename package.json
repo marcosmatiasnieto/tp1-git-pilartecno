@@ -1,0 +1,12 @@
+{
+  "name": "practico-1",
+  "version": "0.1.0",
+  "description": "Practico 1 del Curso de Git de Mern stack",
+  "main": "tp1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
