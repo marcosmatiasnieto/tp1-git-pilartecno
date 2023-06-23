@@ -6,15 +6,15 @@ Sigue las siguientes instrucciones:
 
 ## Instrucciones
 
-1. Descargar el archivo `tp1.zip` de la plataforma y descomprimirlo dentro de una carpeta. El archivo `.zip` no debe estar dentro de esta carpeta.
+1. Descargar el archivo `tp1.zip` de la plataforma y descomprimirlo dentro de una carpeta. El archivo `.zip` no debe estar dentro de esta carpeta.--> lsito
 
 2. Debes realizar las siguientes acciones con Git:
     - Inicializar un repositorio git dentro de la carpeta creada.
-    - Cambiar de rama a una nueva rama llamada "development".
+    - Cambiar de rama a una nueva rama llamada "development"..--> lsito
 
-3. Configurar Git para que ignore el archivo `.env`.
+3. Configurar Git para que ignore el archivo `.env`..--> lsito
 
-4. Realizar un primer commit con el mensaje "First commit".
+4. Realizar un primer commit con el mensaje "First commit"..--> lsito
 
 5. Resolver los tres ejercicios propuestos dentro de `tp1.js`, realizando un commit por cada ejercicio resuelto. Asegúrate de que el mensaje del commit sea descriptivo.
 
